@@ -6,6 +6,8 @@ You are given an array `coins[]`, where each element represents a coin of a diff
 
 Your task is to determine the **minimum number of coins needed** to obtain the target sum **using a greedy approach**. If it is not possible to form the sum using the given coins, return `-1`.
 
+📎 **LeetCode:** [Coin Change 2](https://leetcode.com/problems/coin-change-2/)  
+📺 **YouTube:** [Abdul Bari](https://www.youtube.com/watch?v=GafjS0FfAC0), [GeeksforGeeks](https://www.youtube.com/watch?v=8LusJS5-AGo)
 
 ##  Approach: Greedy Algorithm
 
@@ -42,6 +44,8 @@ You are given `n` activities with their **start and end times**. The goal is to 
 Activities must be selected based on **earliest finishing time**, which ensures maximum compatibility.
 
 ---
+📎 **LeetCode:** [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/), [Maximum Events](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)  
+📺 **YouTube:** [GeeksforGeeks](https://www.youtube.com/watch?v=QuesAUViVw8), [take U forward](https://www.youtube.com/watch?v=LWvN1m7tTDU)
 
 ##  Constraints
 
@@ -95,6 +99,8 @@ Given an integer `k`, return the **minimum number of Fibonacci numbers** whose s
 Each Fibonacci number can be used **at most once**.
 
 ---
+📎 **LeetCode:** [1414. Minimum Fibonacci Numbers](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/)  
+📺 **YouTube:** [Leetcode Solution](https://www.youtube.com/watch?v=1RJOc3AQV9E?si=No674A1MSb2SJfhg)
 
 ## Greedy Approach
 
@@ -138,6 +144,8 @@ You are given `n` items, each with a **value** and a **weight**, and a knapsack 
 > You are allowed to take **fractional parts** of items.
 
 ---
+📎 **GFG:** [Fractional Knapsack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)  
+📺 **YouTube:** [take U forward](https://www.youtube.com/watch?v=F_DDzYnxO14), [GeeksforGeeks](https://www.youtube.com/watch?v=vmLJzQsXRzo)
 
 ## Greedy Approach
 
@@ -192,6 +200,9 @@ You are given `n` items, each with a **value** and a **weight**, and a knapsack 
 Given the **arrival and departure times of `n` trains**, your task is to determine the **minimum number of platforms required** at the railway station so that no train waits.
 
 ---
+📎 **LeetCode:** [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)  
+📎 **GFG:** [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)  
+📺 **YouTube:** [take U forward](https://www.youtube.com/watch?v=dxVcMDI7vyI)
 
 ##  Constraints
 
@@ -256,6 +267,9 @@ Each job takes **exactly 1 unit of time**, and **only one job can be performed a
 Your goal is to **schedule jobs** to **maximize total profit** while ensuring that each job is finished before its deadline.
 
 ---
+📎 **LeetCode:** [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)  
+📎 **GFG:** [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)  
+📺 **YouTube:** [take U forward](https://www.youtube.com/watch?v=LjPx4wQaRIs), [GeeksforGeeks](https://www.youtube.com/watch?v=eGf-26OTI-A)
 
 ## Greedy Approach
 
@@ -319,6 +333,8 @@ Your task is to determine the **minimum number of refuels required** to reach th
 If it's not possible to reach the destination, return `-1`.
 
 ---
+📎 **LeetCode:** [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)  
+📺 **YouTube:** [NeetCode](https://www.youtube.com/watch?v=s6kQW6OyaQA), [Coding Decode](https://www.youtube.com/watch?v=GWmYZsP4h-c)
 
 ## Constraints
 
