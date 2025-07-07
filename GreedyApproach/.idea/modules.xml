@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/GreedyApproach.iml" filepath="$PROJECT_DIR$/.idea/GreedyApproach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sheet-I Problems/Sheet-I Problems.iml" filepath="$PROJECT_DIR$/Sheet-I Problems/Sheet-I Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sheet-II Greedy Algorithm/Sheet-II Greedy Algorithm.iml" filepath="$PROJECT_DIR$/Sheet-II Greedy Algorithm/Sheet-II Greedy Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test01Greedy_Algorithm_Problems/test01Greedy_Algorithm_Problems.iml" filepath="$PROJECT_DIR$/test01Greedy_Algorithm_Problems/test01Greedy_Algorithm_Problems.iml" />
     </modules>
   </component>
 </project>
